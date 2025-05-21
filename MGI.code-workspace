@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Library/CloudStorage/OneDrive-Personal/MGI"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "design"
+	}
+}
